@@ -1,0 +1,13 @@
+{
+  "profile": "duplicate",
+  "seed": 1,
+  "stream_id": 1,
+  "rate_per_sec": 100000,
+  "fault_ppm": 10000,
+  "clean_messages": 1000,
+  "frames_out": 1010,
+  "duplicated": 10,
+  "dropped": 0,
+  "reordered": 0,
+  "malformed": 0
+}
